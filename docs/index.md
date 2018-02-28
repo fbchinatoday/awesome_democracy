@@ -1,4 +1,4 @@
-Heapster Overview
+Awesome democracy (写给程序员的民主指南)
 ===================
 
 Heapster is a monitoring metrics and events processing tool designed to work inside Kubernetes clusters. It consists of 2 components:

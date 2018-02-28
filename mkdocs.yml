@@ -1,4 +1,4 @@
-site_name: Sample Documentation
+site_name: Awesome democracy
 pages:
 - Heapster Overview: index.md
 - Model: model.md
