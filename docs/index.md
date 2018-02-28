@@ -18,6 +18,12 @@ Github: https://github.com/fbchinatoday/awesome_democracy
 
 ## 什么是民主
 
+### 民主的起源
+
+### 当今世界的民主政治
+
+### 民主政治衰落了么
+
 ## 中国是否需要民主宪政
 
 ## 如何实现民主
