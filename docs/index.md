@@ -5,8 +5,11 @@ Awesome democracy (民主有多酷)
 
 问题的关键不是他们是出于何种动机，而是毛泽东和习近平的理想都是错误的。民主对中国是否必要，在中国这样一个有深厚皇权传统的国家如何实施西方的宪政民主？这是本手册希望回答的问题。本人专业政治历史学者，不过愿意贡献我在其他领域学术研究中学到的资料收集和论证方法来讨论这一问题。如有错误，恳请指正。
 
+本手册为开源项目, License [CC By 2.0](https://creativecommons.org/licenses/by/2.0/), 如有兴趣加入编辑欢迎联系。
+
 Facebook: https://www.facebook.com/allaboutchina/
 Twitter: https://twitter.com/fb_china_today
+Github: https://github.com/fbchinatoday/awesome_democracy
 
 
 ## 什么是民主
