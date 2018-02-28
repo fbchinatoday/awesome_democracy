@@ -1,7 +1,5 @@
 site_name: Awesome democracy
 pages:
-- Heapster Overview: index.md
-- Model: model.md
-- Source Configuration: source-configuration.md
+- Overview: index.md
 theme: readthedocs
 

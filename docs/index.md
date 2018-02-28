@@ -1,11 +1,24 @@
-Awesome democracy (写给程序员的民主指南)
+Awesome democracy (民主有多酷)
 ===================
 
-Heapster is a monitoring metrics and events processing tool designed to work inside Kubernetes clusters. It consists of 2 components:
+2018年2月中国共产党重要委员会向人大提交“建议删除宪法中有关中华人民共和国主席、副主席'连续任职不得超过两届'“的宪法修改意见。民主还是独裁执政党给出了明确的回答。中国的命运再一次沉入黑暗。如同中国共产党的以往政治决策一样，用个人愚蠢和贪婪不足以解释这一切。毛泽东发动文革时候达到党内资产阶级当权派的观点不光是他个人的权术也是他理想主义的信念。”中国太大太穷，需要强有力的政府之手来推动经济发展，以及诸如此类的强力对中国洗刷旧日外国势力所带来的耻辱、重振国家伟业是必要的。“ （王沪宁）。习近平和他身边人的这一系列举动的动机，大概可以从王沪宁许多年前接受采访的这一段话略窥一二。
 
-* Heapster core that reads [metrics](storage-schema.md) from Kubernetes cluster nodes (see [sources](source-configuration.md)), 
-do some processing and writes them to permanent storage (see [sinks](sink-configuration.md)). 
-It also provides metrics for other Kubernetes components through [Model API](model.md).
+问题的关键不是他们是出于何种动机，而是毛泽东和习近平的理想都是错误的。民主对中国是否必要，在中国这样一个有深厚皇权传统的国家如何实施西方的宪政民主？这是本手册希望回答的问题。本人专业政治历史学者，不过愿意贡献我在其他领域学术研究中学到的资料收集和论证方法来讨论这一问题。如有错误，恳请指正。
 
-* Eventer that reads events from Kubernetes master (see [sources](source-configuration.md)) and writes them to permanent storage
-(see [sinks](sink-configuration.md)).
+Facebook: https://www.facebook.com/allaboutchina/
+Twitter: https://twitter.com/fb_china_today
+
+
+## 什么是民主
+
+## 中国是否需要民主宪政
+
+## 如何实现民主
+
+### 中国的现状
+
+### 该当如何
+
+### 未来
+
+## 后记
