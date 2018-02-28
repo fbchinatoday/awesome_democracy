@@ -24,11 +24,11 @@ Github: https://github.com/fbchinatoday/awesome_democracy
 
 ### 民主政治衰落了么
 
-## 中国是否需要民主宪政
-
 ## 如何实现民主
 
 ### 中国的现状
+
+### 中国是否需要民主宪政
 
 ### 该当如何
 
